@@ -1,0 +1,15 @@
+newmtl Torus material_efaf2a53-2ea3-455d-968c-2e45ce45364f
+Kd 0.333 0.667 0.831
+d 1.000
+newmtl Torus material 1_c3baeba7-544a-480b-9de9-3e1a0aa168eb
+Kd 0.333 0.667 0.831
+d 1.000
+newmtl Torus material 2_bb622a1d-2907-4413-b068-c050ca8c9bb3
+Kd 0.333 0.667 0.831
+d 1.000
+newmtl Blue Rounded Shapes_bf4edf37-77cf-497c-97f0-151faf0a153e
+Kd 0.871 0.780 0.463
+d 1.000
+newmtl Pure white matte_580a8a73-8aaf-4c81-9b67-5f104f6d4201
+Kd 0.871 0.780 0.463
+d 1.000
