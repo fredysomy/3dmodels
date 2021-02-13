@@ -1,0 +1,42 @@
+newmtl Deck material_2d268c72-5491-4292-b671-8c188ecd17b4
+Kd 1.000 0.380 0.969
+d 1.000
+newmtl Grass green matte_b0636b05-ed67-4796-8811-b0e06c42cb46
+Kd 0.208 0.408 0.176
+d 1.000
+newmtl Main_building material 4_b9a31422-11d3-48e1-af1c-1d1d94f8c5c6
+Kd 0.251 0.808 0.482
+d 1.000
+newmtl Roof material 5_8fbf8dca-e7e0-4243-9bbd-dfe6b2e7c9e2
+Kd 0.976 0.329 0.439
+d 1.000
+newmtl Pillars material_b012ece1-4e3a-4eec-8bd3-9217f54f2070
+Kd 0.800 0.800 0.800
+d 1.000
+newmtl Window_frames material 3_8accb79f-ef3c-4e95-84a0-23e9f3a300b6
+Kd 0.800 0.800 0.800
+d 1.000
+newmtl Window_glass material 2_c3673e2b-8d77-4a1a-815f-4c732240aa97
+Kd 0.243 0.247 0.318
+d 1.000
+newmtl Door material 2_a88dc9a3-1926-4acd-9903-f049d76bae16
+Kd 0.800 0.800 0.800
+d 1.000
+newmtl Material 1_4aa4a108-0908-46f0-8755-f0fa087faa5b
+Kd 0.976 0.329 0.439
+d 1.000
+newmtl Material 2_59655a3a-2bc2-4d91-b11d-1d0ff9479fe4
+Kd 0.243 0.247 0.318
+d 1.000
+newmtl Material 3_7aa88420-0193-40e2-8b8c-1c79a68039f8
+Kd 0.690 0.690 0.690
+d 1.000
+newmtl Material 4_b3d31921-a2fb-475c-a9d8-10b4b750ad69
+Kd 1.000 1.000 1.000
+d 1.000
+newmtl Material 5_3a8efc80-ea5e-43a6-836d-6c4c4fe4a835
+Kd 0.976 0.329 0.439
+d 1.000
+newmtl Object material_2d203474-e695-44df-90cd-707f859acdae
+Kd 0.243 0.247 0.318
+d 1.000
